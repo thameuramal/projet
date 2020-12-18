@@ -26,4 +26,5 @@ Imaginons que vous avez  un compte Twitter, et que vous lez suivre les tweets (t
 * access_secret = "20Ye373RjvjjMfpbPHAW6kbwJURRbqRaQsnMYFBCrZpyw"<br>
     </p>
 ![122186005_1636308099855647_4312913963176300094_n](https://user-images.githubusercontent.com/48862467/102646657-b7bbb800-4164-11eb-9990-f1e881589acb.jpg)
+file:///home/ubunto/Images/Capture%20du%202019-09-19%2019-15-25.png
 
