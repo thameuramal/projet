@@ -41,9 +41,9 @@ from sklearn.cluster import KMeans <br>
 * access_key = "1330861473481052162-NXO8xkGNxf0g6A7wbOjOfMPKZrfUvT" <br>
 * access_secret = "20Ye373RjvjjMfpbPHAW6kbwJURRbqRaQsnMYFBCrZpyw"<br>
     </p> 
-    <h3> Exploration du datase</h3> 
-     <h3>Supprimer les colonnes inutiles</h3>
-     h3>Tweets Cleaning</h3>
+    <h3> 1-Exploration du datase</h3> 
+     <h3>2-Supprimer les colonnes inutiles</h3>
+     <h3>3-Tweets Cleaning</h3>
 <div class="alert alert-info">
     <i><h1><span style="color:blue" > II:Traitement destweets: NLP (Natural LanguageProcessing)</span></h1></i>
 </div>     
