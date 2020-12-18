@@ -49,6 +49,13 @@ from sklearn.cluster import KMeans <br>
 </div>     
 <p style=" font-size: 20px;"> On doit procéder à l’analyse du tweet en respectant les différentes étapes du NLP (Natural LanguageProcessing):</p>
 <h3><span style="color:Maroon" > Tokenization, Lemmatization and removing stopwords </span></h3>
+<p style=" font-size: 20px;"> <h3 >Les mots vides(Stopwords)</h3> sont des mots couramment utilisés dont la présence dans une phrase a moins de poids que d'autres mots. Ils comprennent des mots comme «et», «ou», «a» et.c.</p>
+<p style=" font-size: 20px;"><h3>La tokenisation (Tokenization )</h3>est le processus de division d'une chaîne en une liste de jetons. Une phrase peut être réduite en mots et un mot peut être réduit en lettres en utilisant les tokenizers appropriés.</p>
      
+   <p style=" font-size: 20px;"> <h3>La lemmatisation (Stemmer)</h3>réduit un mot à sa forme racine. Par exemple, la forme de racine des «roches» est  «roche».</p>
+   <div class="alert alert-info">
+      <label style=" font-size: 50px;"> <h1>III:Classification des tweets</h1></label>
+   </div>
+   <p style=" font-size: 20px;"> Utiliser l’algorithme K-Means pour  classer  lesTweets  en k classes  (vous  pouvez  essayer  plusieurs valeurs de k allant de 3 à 30 par exemple).</p>
     
 
