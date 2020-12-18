@@ -25,4 +25,5 @@ Imaginons que vous avez  un compte Twitter, et que vous lez suivre les tweets (t
 * access_key = "1330861473481052162-NXO8xkGNxf0g6A7wbOjOfMPKZrfUvT" <br>
 * access_secret = "20Ye373RjvjjMfpbPHAW6kbwJURRbqRaQsnMYFBCrZpyw"<br>
     </p>
- ![](https://user-images.githubusercontent.com/48862467/102645615-0405f880-4163-11eb-97e2-19e6e7f4fe93.png)
+![phot1](https://user-images.githubusercontent.com/48862467/102646411-4845c880-4164-11eb-8c7a-6c4abda07908.png)
+
