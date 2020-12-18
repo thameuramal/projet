@@ -14,3 +14,13 @@
 <p style=" font-size: 20px;">
 Imaginons que vous avez  un compte Twitter, et que vous lez suivre les tweets (texte très court)sur ce réseau social. Vu le nombre colossal de Tweets, et faute de temps, vous n’avezpas la possibilité deleslire  tous.  Pour  cela,  vous  avez  besoin d’une application qui va jouer le rôle d’assistantet quiva  vous effectuer un résumé de toutes ces informations. Une des approchesqu’on peut utiliser estde le classer sous former de groupesde sorte à ce qu’on présente à l’utilisateur un seul Tweet de chaque groupe. Pour cela, on doit procéder en trois grandes étapes:
 </p>
+<div class="alert alert-info">
+      <label style=" font-size: 50px;"> <span style="color:black" >I:Prétraitement des  tweets</span></label>
+   </div>
+  <p style=" font-size: 20px;">
+  Télécharger  les Tweets à partir de Twitter en utilisant l’API de twitter. Pour cela, vous devriez un compte «Twitter Developer».
+* consumer_key = "ry9GMoJRUCdsHo89bkpVosu8T" 
+* consumer_secret = "y9Yy5X6RE3n6hEogGhVYCmGDKgDPhWuQB8sexc61xKH01Xv6MA" 
+* access_key = "1330861473481052162-NXO8xkGNxf0g6A7wbOjOfMPKZrfUvT" 
+* access_secret = "20Ye373RjvjjMfpbPHAW6kbwJURRbqRaQsnMYFBCrZpyw"
+    </p>
