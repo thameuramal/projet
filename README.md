@@ -47,6 +47,8 @@ from sklearn.cluster import KMeans <br>
 <div class="alert alert-info">
     <i><h1><span style="color:blue" > II:Traitement destweets: NLP (Natural LanguageProcessing)</span></h1></i>
 </div>     
+<p style=" font-size: 20px;"> On doit procéder à l’analyse du tweet en respectant les différentes étapes du NLP (Natural LanguageProcessing):</p>
+<h3><span style="color:Maroon" > Tokenization, Lemmatization and removing stopwords </span></h3>
      
     
 
