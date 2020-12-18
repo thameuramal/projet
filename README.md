@@ -25,5 +25,19 @@ Imaginons que vous avez  un compte Twitter, et que vous lez suivre les tweets (t
 * access_key = "1330861473481052162-NXO8xkGNxf0g6A7wbOjOfMPKZrfUvT" <br>
 * access_secret = "20Ye373RjvjjMfpbPHAW6kbwJURRbqRaQsnMYFBCrZpyw"<br>
     </p>
-![](images/phot1.png)
+  #Libraries
+import pandas as pd 
+import tweepy
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
+import nltk
+import warnings
+from nltk.corpus import stopwords
+from nltk.tokenize import RegexpTokenizer
+from nltk.stem.porter import *
+from sklearn.feature_extraction.text import CountVectorizer
+from sklearn.cluster import KMeans
+
+
 
