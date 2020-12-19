@@ -58,5 +58,5 @@ from sklearn.cluster import KMeans <br>
       <label style=" font-size: 50px;"> <h1>III:Classification des tweets</h1></label>
    </div>
    <p style=" font-size: 20px;"> Utiliser l’algorithme K-Means pour  classer  lesTweets  en k classes  (vous  pouvez  essayer  plusieurs valeurs de k allant de 3 à 30 par exemple).</p>
-https://github.com/thameuramal/projet
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thameuramal/projet/main)
 
