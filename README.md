@@ -1,9 +1,5 @@
 # projet
- projet : Classification des Tweets
- <h1>Thameur Amal 3DNI1</h1>
- 
-![122186005_1636308099855647_4312913963176300094_n](https://user-images.githubusercontent.com/48862467/102668018-2f9cd900-418b-11eb-85ac-47df8a5eec6c.jpg) 
-![phot1](https://user-images.githubusercontent.com/48862467/102668108-696ddf80-418b-11eb-8bc3-ce00bce6dcf6.png)
+
 <div class="alert alert-warning"> <label style=" font-size: 50px;"> <span style="color:black" >projet : Classification des Tweets</span></label> 
     <h1>Thameur Amal 3DNI1</h1>
 
@@ -62,5 +58,5 @@ from sklearn.cluster import KMeans <br>
       <label style=" font-size: 50px;"> <h1>III:Classification des tweets</h1></label>
    </div>
    <p style=" font-size: 20px;"> Utiliser l’algorithme K-Means pour  classer  lesTweets  en k classes  (vous  pouvez  essayer  plusieurs valeurs de k allant de 3 à 30 par exemple).</p>
-![phot1](https://user-images.githubusercontent.com/48862467/102668108-696ddf80-418b-11eb-8bc3-ce00bce6dcf6.png)
+https://github.com/thameuramal/projet
 
