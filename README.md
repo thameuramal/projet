@@ -1,4 +1,5 @@
 # projet
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thameuramal/projet/main)
 
 <div class="alert alert-warning"> <label style=" font-size: 50px;"> <span style="color:black" >projet : Classification des Tweets</span></label> 
     <h1>Thameur Amal 3DNI1</h1>
@@ -58,5 +59,5 @@ from sklearn.cluster import KMeans <br>
       <label style=" font-size: 50px;"> <h1>III:Classification des tweets</h1></label>
    </div>
    <p style=" font-size: 20px;"> Utiliser l’algorithme K-Means pour  classer  lesTweets  en k classes  (vous  pouvez  essayer  plusieurs valeurs de k allant de 3 à 30 par exemple).</p>
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thameuramal/projet/main)
+
 
